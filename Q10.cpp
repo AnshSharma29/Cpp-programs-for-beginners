@@ -10,7 +10,6 @@ int main()
 	{
 	cout<<n<<" X "<<i<<" = "<<n*i<<endl;
 	}
-    cout<<"Name: Ansh Sharma"<<endl<<"Enrollment no: 07829802021"<<endl;
     return 0;
 }
 
