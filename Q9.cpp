@@ -10,7 +10,7 @@ int main()
 	a=7;
 	b=a++;
 	cout<<"For post-increment : The value of a is "<<a<<" and b is "<< b<<endl;
-	cout<<"Name: Ansh Sharma"<<endl<<"Enrollment no: 07829802021"<<endl;
+	
 	return 0;	
 }
 
