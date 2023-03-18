@@ -12,7 +12,6 @@ int main()
 	
 	s = (u*t)+ (a*(t*t));
 	cout << "\nDisplacement = " << s << endl;
-	cout<<"Name: Ansh Sharma"<<endl<<"Enrollment no: 07829802021"<<endl;
 	return 0;
 }
 
