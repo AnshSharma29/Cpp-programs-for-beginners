@@ -13,7 +13,7 @@ int main()
 		n1=n2;
 		n2=next;	
 	} 
-    cout<<"\nName: Ansh Sharma"<<endl<<"Enrollment no: 07829802021"<<endl;
+    
     return 0;
 
 }
